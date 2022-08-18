@@ -8,4 +8,4 @@ description: > # this means to ignore newlines until "baseurl:"
 github_username:  jon-chuang # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: mmistakes/so-simple-theme@3.2.0
+remote_theme: mmistakes/so-simple-theme@3.2.0
