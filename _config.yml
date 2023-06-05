@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  jon-chuang # DO NOT include the @ character, or else the build will fail!
+future: true # Not sure if to keep this; it's for posts that are scheduled to be published in the future
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
